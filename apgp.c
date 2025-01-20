@@ -5,7 +5,7 @@ int main(){
  float r;
   int n;
 
-	 printf("enter the first number\n");
+	 printf("enter the first number : \n");
 	 scanf("%f",&a);
 	 printf("enter the common difference between them\n ");
 	 scanf("%f",&r);
